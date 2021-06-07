@@ -24,6 +24,7 @@ import android.widget.RelativeLayout
 import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatDelegate
+import kotlinx.android.synthetic.main.activity_main.*
 import java.io.File
 import java.io.IOException
 import java.security.NoSuchAlgorithmException
@@ -103,8 +104,17 @@ class MainActivity : Activity() {
             Log.e(TAG, "" + e.message)
         }*/
 
+        //ini
+        refreshApp()
     }
 
+    private fun refreshApp(){
+
+        swipeToRefresh.setOnRefreshListener{
+            webview.reload()
+            swipeToRefresh.isRefreshing = false
+        }
+    }
 
     private fun requestForWebview() {
 

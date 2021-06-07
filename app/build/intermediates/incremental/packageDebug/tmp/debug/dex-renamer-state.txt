@@ -1,4 +1,4 @@
-#Mon Jun 07 03:12:09 ICT 2021
+#Tue Jun 08 05:42:21 ICT 2021
 base.2=C\:\\SigmaIntraMedia\\alfabetdigital\\mobileapp\\New folder (2)\\Android-WebView-in-Kotlin-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
 path.2=6/classes.dex
 base.1=C\:\\SigmaIntraMedia\\alfabetdigital\\mobileapp\\New folder (2)\\Android-WebView-in-Kotlin-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
