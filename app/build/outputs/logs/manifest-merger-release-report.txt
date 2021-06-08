@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4fc411f78fdd45629fcc96496c90e997\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\554819a88c67f42d6e33db90624c2acb\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\3ef3d43dde78f328c9104b4149ae3e9d\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\0d0e9b0833872e98be9da842b729fc48\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\62ce034e00274d04b42a98f6f55667e4\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1af82bd1926a2341330a16864b6a8986\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\57a8934d45c9b11467fe2a7c95bfe1af\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\dfeb129822b03a055da1cb5e5455f955\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\27b28666c9a591641b499737b23dc84d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4e35f31c234b1608db482208f6d725d6\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\32a2eccf61081ecb737f05594423149d\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\69d28bb2853dd1486b0a0aaa6971a82f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\a4e738f96f7c7acf8340745402a530c5\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4e4972fc3c5fb009d5a724c7a27c8e2e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\c1be2649d1b8dbee20c3f3c5d026acac\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\24faad24b5fe397e79f5c7be785ecc24\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\f8f7e02fb9541909ed88835ee455f1b4\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\b3dc6b719c3115e62891275cabeaa6cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\38c2fc20af1a73c8f2a9c97dd959f16b\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8a3c9a1ce9b68a77d927ad91986f9c75\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1a070e957b39be46e2edf1ef8911b0ba\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8dc0e0c2e2ea683b91b5831c0d01d588\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\93f3084c0ca065dbfcae0c84256b4916\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\60d2c3b259a0493e7725b92330ae902b\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\a0e44dc437c7a8c1d604b40f4c438419\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\d1c4975a8a06e6f3994d07bfd1ceb2ba\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\bf2bb4e5a2ac2213b9825e22fd038cfe\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8fbd31d0a8d9200af19a4b98aeb7886b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\993250656476cbbf94a4c10cd6945c79\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\b8bc1b6c2bd998f3d87b875fcec4641a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\f7435bc791430b5e83d6eb86102d9eb7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\11cbb2a7bf748e9170722d7d01dc28d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\695f78dd49d8c94f000f4897ba593473\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4fc411f78fdd45629fcc96496c90e997\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4fc411f78fdd45629fcc96496c90e997\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\0d0e9b0833872e98be9da842b729fc48\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\0d0e9b0833872e98be9da842b729fc48\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1a070e957b39be46e2edf1ef8911b0ba\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1a070e957b39be46e2edf1ef8911b0ba\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\93f3084c0ca065dbfcae0c84256b4916\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\93f3084c0ca065dbfcae0c84256b4916\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1a070e957b39be46e2edf1ef8911b0ba\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#imrankst1221.website.in.webview.MainActivity
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4fc411f78fdd45629fcc96496c90e997\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4fc411f78fdd45629fcc96496c90e997\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\554819a88c67f42d6e33db90624c2acb\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\554819a88c67f42d6e33db90624c2acb\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\3ef3d43dde78f328c9104b4149ae3e9d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\3ef3d43dde78f328c9104b4149ae3e9d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\0d0e9b0833872e98be9da842b729fc48\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\0d0e9b0833872e98be9da842b729fc48\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\62ce034e00274d04b42a98f6f55667e4\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\62ce034e00274d04b42a98f6f55667e4\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1af82bd1926a2341330a16864b6a8986\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1af82bd1926a2341330a16864b6a8986\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\57a8934d45c9b11467fe2a7c95bfe1af\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\57a8934d45c9b11467fe2a7c95bfe1af\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\dfeb129822b03a055da1cb5e5455f955\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\dfeb129822b03a055da1cb5e5455f955\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\27b28666c9a591641b499737b23dc84d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\27b28666c9a591641b499737b23dc84d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4e35f31c234b1608db482208f6d725d6\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4e35f31c234b1608db482208f6d725d6\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\32a2eccf61081ecb737f05594423149d\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\32a2eccf61081ecb737f05594423149d\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\69d28bb2853dd1486b0a0aaa6971a82f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\69d28bb2853dd1486b0a0aaa6971a82f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\a4e738f96f7c7acf8340745402a530c5\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\a4e738f96f7c7acf8340745402a530c5\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4e4972fc3c5fb009d5a724c7a27c8e2e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\4e4972fc3c5fb009d5a724c7a27c8e2e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\c1be2649d1b8dbee20c3f3c5d026acac\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\c1be2649d1b8dbee20c3f3c5d026acac\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\24faad24b5fe397e79f5c7be785ecc24\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\24faad24b5fe397e79f5c7be785ecc24\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\f8f7e02fb9541909ed88835ee455f1b4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\f8f7e02fb9541909ed88835ee455f1b4\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\b3dc6b719c3115e62891275cabeaa6cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\b3dc6b719c3115e62891275cabeaa6cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\38c2fc20af1a73c8f2a9c97dd959f16b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\38c2fc20af1a73c8f2a9c97dd959f16b\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8a3c9a1ce9b68a77d927ad91986f9c75\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8a3c9a1ce9b68a77d927ad91986f9c75\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1a070e957b39be46e2edf1ef8911b0ba\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\1a070e957b39be46e2edf1ef8911b0ba\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8dc0e0c2e2ea683b91b5831c0d01d588\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8dc0e0c2e2ea683b91b5831c0d01d588\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\93f3084c0ca065dbfcae0c84256b4916\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\93f3084c0ca065dbfcae0c84256b4916\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\60d2c3b259a0493e7725b92330ae902b\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\60d2c3b259a0493e7725b92330ae902b\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\a0e44dc437c7a8c1d604b40f4c438419\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\a0e44dc437c7a8c1d604b40f4c438419\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\d1c4975a8a06e6f3994d07bfd1ceb2ba\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\d1c4975a8a06e6f3994d07bfd1ceb2ba\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\bf2bb4e5a2ac2213b9825e22fd038cfe\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\bf2bb4e5a2ac2213b9825e22fd038cfe\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8fbd31d0a8d9200af19a4b98aeb7886b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\8fbd31d0a8d9200af19a4b98aeb7886b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\993250656476cbbf94a4c10cd6945c79\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\993250656476cbbf94a4c10cd6945c79\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\b8bc1b6c2bd998f3d87b875fcec4641a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\b8bc1b6c2bd998f3d87b875fcec4641a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\f7435bc791430b5e83d6eb86102d9eb7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\f7435bc791430b5e83d6eb86102d9eb7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\11cbb2a7bf748e9170722d7d01dc28d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\11cbb2a7bf748e9170722d7d01dc28d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\695f78dd49d8c94f000f4897ba593473\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Shaqtee\.gradle\caches\transforms-2\files-2.1\695f78dd49d8c94f000f4897ba593473\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SigmaIntraMedia\alfabetdigital\mobileapp\New folder (2)\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
