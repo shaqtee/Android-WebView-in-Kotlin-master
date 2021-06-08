@@ -67,7 +67,8 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\SigmaIntraMedia\alfabetdigital\mobileapp\bglogo.png" />
+                                                <entry key="imagePath" value="C:\SigmaIntraMedia\asset\icon\bg2.png" />
+                                                <entry key="scalingPercent" value="274" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -90,7 +91,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\SigmaIntraMedia\alfabetdigital\mobileapp\frlogo.png" />
+                                                <entry key="imagePath" value="C:\SigmaIntraMedia\asset\icon\red.png" />
                                                 <entry key="scalingPercent" value="60" />
                                               </map>
                                             </option>

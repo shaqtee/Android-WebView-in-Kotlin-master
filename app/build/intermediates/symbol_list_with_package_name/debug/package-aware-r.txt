@@ -1009,7 +1009,6 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable ic_launcher_background
 drawable ic_logo
 drawable ic_love
 drawable ic_mtrl_chip_checked_black
