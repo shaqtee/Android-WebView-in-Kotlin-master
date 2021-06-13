@@ -172,6 +172,14 @@ class MainActivity : Activity() {
         mWebView.webViewClient = object : WebViewClient() {
             override fun shouldOverrideUrlLoading(view: WebView, url: String?): Boolean {
 
+                if (url!!.startsWith("whatsapp:")) {
+                    val intent = Intent(Intent.ACTION_VIEW)
+                    intent.data = Uri.parse(url)
+                    startActivity(intent)
+                    return true
+                }
+                return false
+
                 Log.d(TAG, "URL: " + url!!)
                 if (internetCheck(mContext)) {
                     // If you wnat to open url inside then use
@@ -187,6 +195,7 @@ class MainActivity : Activity() {
                         startActivity(intent)
                         return true
                     }*/
+
                 } else {
                     prgs.visibility = View.GONE
                     mWebView.visibility = View.GONE

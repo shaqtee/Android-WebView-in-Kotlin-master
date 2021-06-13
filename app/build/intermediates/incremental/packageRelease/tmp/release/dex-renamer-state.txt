@@ -1,4 +1,4 @@
-#Wed Jun 09 04:05:05 ICT 2021
+#Mon Jun 14 00:30:57 ICT 2021
 base.0=C\:\\SigmaIntraMedia\\alfabetdigital\\mobileapp\\New folder (2)\\Android-WebView-in-Kotlin-master\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
